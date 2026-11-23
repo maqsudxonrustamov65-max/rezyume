@@ -2,6 +2,8 @@
 
 A free CV builder that runs entirely in the browser. Fill in a form, watch a live A4 preview update as you type, switch between three templates and three CV languages, and download a clean PDF that applicant tracking systems can read.
 
+**Live app: https://rezyume-hazel.vercel.app**
+
 Built with Next.js, TypeScript, Tailwind CSS and [@react-pdf/renderer](https://react-pdf.org). There is no backend and no account; your CV is saved in your browser's localStorage.
 
 ## Features
