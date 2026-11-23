@@ -1,0 +1,6 @@
+# keep local-only files out of Vercel uploads
+.env*
+.claude/
+node_modules/
+.next/
+test-output/
